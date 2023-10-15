@@ -1,0 +1,64 @@
+CRITICAL - 2023-10-16 04:15:48 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Home.php on line 89.
+ 1 APPPATH\Controllers\Home.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'APPPATH\\Controllers\\Home.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Home->delete2()
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2023-10-16 04:15:56 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Home.php on line 89.
+ 1 APPPATH\Controllers\Home.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'APPPATH\\Controllers\\Home.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Home->delete2()
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2023-10-16 04:17:32 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Home.php on line 89.
+ 1 APPPATH\Controllers\Home.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'APPPATH\\Controllers\\Home.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Home->delete2()
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2023-10-16 04:22:49 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Home.php on line 89.
+ 1 APPPATH\Controllers\Home.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'APPPATH\\Controllers\\Home.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Home->delete2()
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2023-10-16 04:23:33 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Home.php on line 90.
+ 1 APPPATH\Controllers\Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'APPPATH\\Controllers\\Home.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Home->delete2()
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2023-10-16 04:24:27 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Home.php on line 90.
+ 1 APPPATH\Controllers\Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'APPPATH\\Controllers\\Home.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Home->delete2()
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2023-10-16 04:27:36 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Home.php on line 90.
+ 1 APPPATH\Controllers\Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'APPPATH\\Controllers\\Home.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Home->delete2()
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2023-10-16 04:35:25 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Home.php on line 90.
+ 1 APPPATH\Controllers\Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'APPPATH\\Controllers\\Home.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Home->delete2()
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
